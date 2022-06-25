@@ -28,6 +28,10 @@ p {
   font-weight: bold;
   line-height: 1;
 }
+.designation {
+  font-size: 1rem;
+  line-height: 1;
+}
 .container-fluid{
   padding: 7% 15%;
 }
